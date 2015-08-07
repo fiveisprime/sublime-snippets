@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[else {${0:$TM_SELECTED_TEXT}}]]></content>
+  <tabTrigger>else</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
